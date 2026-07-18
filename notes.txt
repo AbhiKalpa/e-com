@@ -1,8 +1,0 @@
-git add .
-(This prepares all your modified files for saving.)
-
-git commit -m "Describe your changes here"
-(This locks your changes into your local history with a descriptive note.)
-
-git push
-(Since you already used -u origin main on your first push, you only need to type git push from now on!)

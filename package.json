@@ -2,17 +2,24 @@
   "name": "e-comerce-store",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/AbhiKalpa/e-com#readme",
+  "bugs": {
+    "url": "https://github.com/AbhiKalpa/e-com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhiKalpa/e-com.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "ejs": "^6.0.1",
     "express": "^5.2.1",
-    "mongoose": "^9.7.4"
+    "mongoose": "^9.7.4",
+    "nodemon": "^3.1.14"
   }
 }
