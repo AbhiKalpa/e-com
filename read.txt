@@ -1,0 +1,6 @@
+{title :switch,
+description,
+price,
+image,
+category,
+stockCount}
